@@ -1,27 +1,72 @@
 [
     {
         "id": 1,
-        "name": "Fire TV Stick",
-        "price": "32.99"
+        "name": "Bitcoin",
+        "description": "Bitcoin es una criptomoneda descentralizada presentada originalmente en un documento técnico en 2008 por una persona, o grupo de personas, utilizando el alias Satoshi Nakamoto. Se lanzó poco después, en enero de 2009.",
+        "price": "26000.00",
+        "hour": "21:00"
     },
     {
         "id": 2,
-        "name": "Amazon Echo Dot",
-        "price": "49.99"
+        "name": "Ethereum",
+        "description": "Ethereum es un sistema blockchain de código abierto descentralizado que incluye su propia criptomoneda, Ether. ETH funciona como plataforma para otras numerosas criptomonedas, así como para la ejecución de contratos inteligentes descentralizados.",
+        "price": "1653.03",
+        "hour": "20:30"
     },
     {
         "id": 3,
-        "name": "Amazon Echo, Black",
-        "price": "149.99"
+        "name": "Tether",
+        "description": "Tether (USDT) es una moneda digital con un valor destinado a ser un reflejo del dólar estadounidense. Lanzada en 2014, la idea detrás de Tether era crear una criptomoneda estable o <stablecoin> que se pueda usar como dólares digitales. Los Tethers están anclados o <atados> al precio del dólar estadounidense.",
+        "price": "1.00",
+        "hour": "19:30"
     },
     {
         "id": 4,
-        "name": "Fire Tablet, 7",
-        "price": "47.49"
+        "name": "Polygon",
+        "description": "Polygon (anteriormente Matic Network) es la primera plataforma bien estructurada y fácil de usar para el escalado y el desarrollo de infraestructura de Ethereum. Su componente central es Polygon SDK, un marco modular y flexible que admite la creación de múltiples tipos de aplicaciones.Con Polygon, se pueden crear cadenas de rollups optimistas, cadenas acumuladas ZK, cadenas independientes o cualquier otro tipo de infraestructura requerida por el desarrollador. Polygon transforma eficazmente Ethereum en un sistema multicadena completo (también conocido como Internet of Blockchains). Este sistema de cadenas múltiples es similar a otros como Polkadot, Cosmos, Avalanche, etc., con las ventajas de la seguridad, el ecosistema vibrante y la apertura de Ethereum.",
+        "price": "1.01",
+        "hour": "23:30"
     },
     {
         "id": 5,
-        "name": "Kindle Paperwhitefff",
-        "price": "104.99"
+        "name": "Dogecoin",
+        "description": "Dogecoin (DOGE) se basa en el popular meme de Internet <doge> y tiene un Shiba Inu en su logotipo. La moneda digital de código abierto fue creada por Billy Markus de Portland, Oregon y Jackson Palmer de Sydney, Australia, y se bifurcó de Litecoin en diciembre de 2013. Los creadores de Dogecoin la vieron como una criptomoneda divertida y alegre que tendría un mayor atractivo más allá de la audiencia principal de Bitcoin, ya que se basó en un meme de perro. El CEO de Tesla, Elon Musk, publicó varios tuits en las redes sociales en los que decía que Dogecoin era su moneda favorita.",
+        "price": "0.08",
+        "hour": "12:30"
+    },
+    {
+        "id": 6,
+        "name": "Litecoin",
+        "description": "Litecoin (LTC) es una criptomoneda diseñada para proporcionar pagos rápidos, seguros y de bajo costo al aprovechar las propiedades únicas de la tecnología de cadena de bloques. La criptomoneda se creó con base en el protocolo de Bitcoin, pero difiere en términos de cómo es utilizado el algoritmo de hash, la capitalización máxima, los tiempos de transacción de bloque y algunos otros factores. Litecoin tiene un tiempo de bloques de tan solo 2,5 minutos, y comisiones por transacción extremadamente bajas, lo que la hace apta para microtransacciones y pagos en puntos de venta.",
+        "price": "89.96",
+        "hour": "18:30"
+    },
+    {
+        "id": 7,
+        "name": "Chainlink",
+        "description": "Chainlink (LINK) es una red de oráculo descentralizado que tiene como objetivo conectar contratos inteligentes con datos del mundo real. Chainlink fue desarrollado por Sergey Nazarov, con Steve Ellis como el otro cofundador. Realizó una ICO en septiembre de 2017, recaudando USD 32 millones, con un suministro total de mil millones de tokens LINK. LINK, la criptomoneda nativa de la red de oráculo descentralizado Chainlink, se utiliza para pagar a los operadores de nodos. Dado que la red Chainlink tiene un sistema de reputación, los proveedores de nodos que tienen una gran cantidad de LINK pueden ser recompensados con contratos más grandes, mientras que la falta de entrega de información precisa da como resultado una deducción de tokens.",
+        "price": "7.03",
+        "hour": "14:30"
+    },
+    {
+        "id": 8,
+        "name": "BNB",
+        "description": "BNB se lanzó a través de una oferta inicial de monedas en 2017, 11 días antes de que el exchange de criptomonedas Binance se pusiera en marcha. Originalmente se emitió como un token ERC-20 que se ejecutaba en la red de Ethereum, con un suministro total limitado a 200 millones de monedas y 100 millones de BNB ofrecidos en la ICO.",
+        "price": "303.25",
+        "hour": "17:30"
+    },
+    {
+        "id": 9,
+        "name": "TRON",
+        "description": "TRON es un sistema operativo basado en blockchain que tiene como objetivo garantizar que esta tecnología sea adecuada para el uso diario. Mientras que Bitcoin puede manejar hasta seis transacciones por segundo, y Ethereum hasta 25, TRON afirma que su red tiene capacidad para 2.000 TPS - 24/7. Este proyecto se describe mejor como una plataforma descentralizada que se enfoca en el intercambio de contenidos y el entretenimiento; y para ello, una de sus mayores adquisiciones fue el servicio de intercambio de archivos BitTorrent en 2018.",
+        "price": "0.06",
+        "hour": "15:30"
+    },
+    {
+        "id": 10,
+        "name": "Polygon",
+        "description": "Polygon (anteriormente Matic Network) es la primera plataforma bien estructurada y fácil de usar para el escalado y el desarrollo de infraestructura de Ethereum. Su componente central es Polygon SDK, un marco modular y flexible que admite la creación de múltiples tipos de aplicaciones.Con Polygon, se pueden crear cadenas de rollups optimistas, cadenas acumuladas ZK, cadenas independientes o cualquier otro tipo de infraestructura requerida por el desarrollador. Polygon transforma eficazmente Ethereum en un sistema multicadena completo (también conocido como Internet of Blockchains). Este sistema de cadenas múltiples es similar a otros como Polkadot, Cosmos, Avalanche, etc., con las ventajas de la seguridad, el ecosistema vibrante y la apertura de Ethereum.",
+        "price": "1.01",
+        "hour": "13:30"
     }
 ]
